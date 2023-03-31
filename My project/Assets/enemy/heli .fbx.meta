@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: f4ac46ea6122dbe408ff020690e5e52a
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: 454628633781787806
+    second: SPINNER|Cube.002Action
+  - first:
+      74: -1560846461111420681
+    second: SPINNER|door 1.000Action
+  - first:
+      74: -8236316103501874480
+    second: SPINNER|door 1.000Action.001
+  - first:
+      74: -3676313084791366891
+    second: SPINNER|HELI.002Action
+  - first:
+      74: 5861727318013971802
+    second: SPINNER|SPINNERAction
+  - first:
+      74: -6031112151089745578
+    second: SPINNER|Torus.001Action
+  - first:
+      74: -3110986813445094665
+    second: SPINNER|Torus.001Action.001
+  - first:
+      74: 6712369695479197947
+    second: Cube.002|Cube.002Action
+  - first:
+      74: -6870916561513474923
+    second: Cube.002|door 1.000Action
+  - first:
+      74: -6898039114102421115
+    second: Cube.002|door 1.000Action.001
+  - first:
+      74: 4083266240211028262
+    second: Cube.002|HELI.002Action
+  - first:
+      74: 6470306841225800804
+    second: Cube.002|SPINNERAction
+  - first:
+      74: -503277235847005105
+    second: Cube.002|Torus.001Action
+  - first:
+      74: -5207648439293333655
+    second: Cube.002|Torus.001Action.001
+  - first:
+      74: 2010687277445556594
+    second: door 1.000|Cube.002Action
+  - first:
+      74: 4480296006316765584
+    second: door 1.000|door 1.000Action
+  - first:
+      74: 7930072501344581733
+    second: door 1.000|door 1.000Action.001
+  - first:
+      74: -52748930223200528
+    second: door 1.000|HELI.002Action
+  - first:
+      74: -3758682837653372215
+    second: door 1.000|SPINNERAction
+  - first:
+      74: 5986668635344054717
+    second: door 1.000|Torus.001Action
+  - first:
+      74: 6943881313936633742
+    second: door 1.000|Torus.001Action.001
+  - first:
+      74: 8610398227358105058
+    second: HELI.002|Cube.002Action
+  - first:
+      74: -4870402257293405750
+    second: HELI.002|door 1.000Action
+  - first:
+      74: -5137587550306191340
+    second: HELI.002|door 1.000Action.001
+  - first:
+      74: -3597290099373417595
+    second: HELI.002|HELI.002Action
+  - first:
+      74: 5018806113905906698
+    second: HELI.002|SPINNERAction
+  - first:
+      74: -7146684204919183092
+    second: HELI.002|Torus.001Action
+  - first:
+      74: 5102455366659863426
+    second: HELI.002|Torus.001Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
